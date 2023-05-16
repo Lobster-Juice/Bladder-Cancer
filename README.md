@@ -3,5 +3,5 @@
 |-|-|
 |Jack W|Lettuce|
 |Riyansh|Quebec|
-|Kavin|Beach Sand|
+|Kavin|Beach Sand Minerals|
 |Logan|Raw Meat|
